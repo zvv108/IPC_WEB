@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/jwks-verify.dir/jwks-verify.cpp.o -o jwks-verify  /usr/lib/aarch64-linux-gnu/libssl.so /usr/lib/aarch64-linux-gnu/libcrypto.so 

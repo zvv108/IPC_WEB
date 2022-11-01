@@ -1,0 +1,2 @@
+/usr/local/lib/libgdbus.so
+/usr/local/include/gdbus.h

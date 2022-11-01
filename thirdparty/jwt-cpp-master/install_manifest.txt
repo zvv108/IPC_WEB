@@ -1,0 +1,15 @@
+/usr/local/cmake/jwt-cpp-targets.cmake
+/usr/local/include/jwt-cpp/jwt.h
+/usr/local/include/jwt-cpp/traits/boost-json/traits.h
+/usr/local/include/jwt-cpp/traits/boost-json/defaults.h
+/usr/local/include/jwt-cpp/traits/nlohmann-json/traits.h
+/usr/local/include/jwt-cpp/traits/nlohmann-json/defaults.h
+/usr/local/include/jwt-cpp/traits/defaults.h.mustache
+/usr/local/include/jwt-cpp/traits/danielaparker-jsoncons/traits.h
+/usr/local/include/jwt-cpp/traits/danielaparker-jsoncons/defaults.h
+/usr/local/include/jwt-cpp/traits/kazuho-picojson/traits.h
+/usr/local/include/jwt-cpp/traits/kazuho-picojson/defaults.h
+/usr/local/include/jwt-cpp/base.h
+/usr/local/include/picojson/picojson.h
+/usr/local/cmake/jwt-cpp-config.cmake
+/usr/local/cmake/jwt-cpp-config-version.cmake

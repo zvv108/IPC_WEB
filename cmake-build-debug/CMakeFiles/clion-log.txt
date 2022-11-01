@@ -1,0 +1,21 @@
+/home/zvv/Downloads/clion-2022.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/zvv/Downloads/clion-2022.2/bin/ninja/linux/ninja -G Ninja -S /home/zvv/Documents/program/IPC/ipcweb-backend -B /home/zvv/Documents/program/IPC/ipcweb-backend/cmake-build-debug
+-- The CXX compiler identification is GNU 9.4.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- looking for liblzma
+-- liblzma found
+CMake Error at /home/zvv/Downloads/clion-2022.2/bin/cmake/linux/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+  Could not find libunwind (missing: LIBUNWIND_INCLUDE_DIR)
+Call Stack (most recent call first):
+  /home/zvv/Downloads/clion-2022.2/bin/cmake/linux/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake:594 (_FPHSA_FAILURE_MESSAGE)
+  /usr/local/lib/cmake/MiniLogger/FindLibunwind.cmake:38 (find_package_handle_standard_args)
+  /home/zvv/Downloads/clion-2022.2/bin/cmake/linux/share/cmake-3.23/Modules/CMakeFindDependencyMacro.cmake:47 (find_package)
+  /usr/local/lib/cmake/MiniLogger/MiniLoggerConfig.cmake:32 (find_dependency)
+  CMakeLists.txt:29 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/zvv/Documents/program/IPC/ipcweb-backend/cmake-build-debug/CMakeFiles/CMakeOutput.log".

@@ -1,0 +1,2 @@
+/usr/local/bin/dbserver
+/usr/local/share/dbus-1/system.d/dbserver.conf
